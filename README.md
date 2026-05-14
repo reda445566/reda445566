@@ -1,16 +1,47 @@
-## Hi there 👋
+1. Tech Stack Details:
 
-<!--
-**reda445566/reda445566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend:
+Backend:
+Database:
+Other tools/technologies:
 
-Here are some ideas to get you started:
+2. Current Learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks/Languages:
+AI/ML Technologies:
+System Design topics:
+
+3. Standout Projects:
+Project 1:
+
+Name:
+Description:
+Tech Stack:
+GitHub Link:
+Achievements/Stats:
+
+Project 2:
+
+Name:
+Description:
+Tech Stack:
+GitHub Link:
+Achievements/Stats:
+
+Project 3 (optional):
+
+Name:
+Description:
+Tech Stack:
+GitHub Link:
+Achievements/Stats:
+
+4. Professional Focus:
+
+What kind of problems do you love solving?
+Your area of expertise:
+
+5. Career Goals:
+
+Currently: (open to opportunities / building in public / open source / etc.)
+Looking for: (collaborations / job opportunities / freelance / etc.)
