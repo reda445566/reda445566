@@ -45,10 +45,13 @@ Full Stack Developer passionate about building production-grade applications wit
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Currently Exploring
-![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### AI
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-185FA5?style=for-the-badge&logo=graphql&logoColor=white)
+![Fine--tuning](https://img.shields.io/badge/Fine--tuning-993C1D?style=for-the-badge&logo=huggingface&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-FF6B35?style=for-the-badge&logo=pytorch&logoColor=white)
+![LLaMA Factory](https://img.shields.io/badge/LLaMA_Factory-3B6D11?style=for-the-badge&logo=meta&logoColor=white)
 
 ---
 
