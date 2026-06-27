@@ -57,14 +57,18 @@ Full Stack Developer passionate about building production-grade applications wit
 
 ## 🎯 Focus Areas
 
-```javascript
 const focusAreas = {
   architecture: ["System Design", "Scalable Applications", "Microservices"],
   development: ["Full Stack Development", "API Design", "Performance Optimization"],
-  learning: ["AI/ML Integration", "LLM Applications", "Cloud Architecture"],
+  learning: [
+    "LLM Engineering",
+    "Fine-Tuning & LoRA",
+    "RAG Systems",
+    "AI Agents",
+    "Model Development & Deployment"
+  ],
   interests: ["Web3", "Real-time Systems", "Developer Tools"]
 };
-```
 
 ---
 
